@@ -1,4 +1,4 @@
-# one-monocai-darker README
+# one-monokai-darker README
 
 ## Working with Markdown
 

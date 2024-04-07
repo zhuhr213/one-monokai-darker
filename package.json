@@ -1,6 +1,6 @@
 {
-  "name": "one-monocai-darker",
-  "displayName": "One Monocai darker",
+  "name": "one-monokai-darker",
+  "displayName": "One Monokai darker",
   "description": "A Darker One-Monokai crossover scheme, highlighting variables and functions and packages, etc.",
   "publisher": "zhuhr213",
   "version": "0.0.1",
@@ -12,14 +12,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhuhr213/one-monocai-darker"
+    "url": "https://github.com/zhuhr213/one-monokai-darker"
   },
   "contributes": {
     "themes": [
       {
-        "label": "One Monocai darker theme",
+        "label": "One Monokai darker theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/One Monocai darker theme-color-theme.json"
+        "path": "./themes/One Monokai darker theme-color-theme.json"
       }
     ]
   },
