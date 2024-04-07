@@ -2,7 +2,9 @@
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A customized One-Monocai cross theme with a darker style, highlighting the packages, functions and variables, etc.
+This theme version is typically inspired by * [One Dark Pro Monokai Darker Reloaded Theme](https://github.com/mxthevs/one-dark-pro-monokai-darker-reloaded) and * [One Monokai Dark Theme](https://github.com/tgreen7/vscode-one-monokai.git)
+
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
 * Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
