@@ -1,0 +1,21 @@
+{
+  "name": "one-monocai-darker",
+  "displayName": "One Monocai darker",
+  "description": "A Darker One-Monokai crossover scheme, highlighting variables and functions and packages, etc.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Monocai darker theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Monocai darker theme-color-theme.json"
+      }
+    ]
+  }
+}
