@@ -21,68 +21,68 @@
         "uiTheme": "vs-dark",
         "path": "./themes/One Monokai darker theme-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "label": "Monokai Pro Icons",
+        "id": "Monokai Pro Icons",
+        "path": "./icon-themes/Monokai Pro icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro Monochrome Icons",
+        "id": "Monokai Pro Monochrome Icons",
+        "path": "./icon-themes/Monokai Pro monochrome icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Octagon) Icons",
+        "id": "Monokai Pro (Filter Octagon) Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Octagon) icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Octagon) Monochrome Icons",
+        "id": "Monokai Pro (Filter Octagon) Monochrome Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Octagon) monochrome icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Ristretto) Icons",
+        "id": "Monokai Pro (Filter Ristretto) Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Ristretto) icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Ristretto) Monochrome Icons",
+        "id": "Monokai Pro (Filter Ristretto) Monochrome Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Ristretto) monochrome icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Spectrum) Icons",
+        "id": "Monokai Pro (Filter Spectrum) Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Spectrum) icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Spectrum) Monochrome Icons",
+        "id": "Monokai Pro (Filter Spectrum) Monochrome Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Spectrum) monochrome icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Machine) Icons",
+        "id": "Monokai Pro (Filter Machine) Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Machine) icon-theme.json"
+      },
+      {
+        "label": "Monokai Pro (Filter Machine) Monochrome Icons",
+        "id": "Monokai Pro (Filter Machine) Monochrome Icons",
+        "path": "./icon-themes/Monokai Pro (Filter Machine) monochrome icon-theme.json"
+      },
+      {
+        "label": "Monokai Classic Icons",
+        "id": "Monokai Classic Icons",
+        "path": "./icon-themes/Monokai Classic icon-theme.json"
+      },
+      {
+        "label": "Monokai Classic Monochrome Icons",
+        "id": "Monokai Classic Monochrome Icons",
+        "path": "./icon-themes/Monokai Classic monochrome icon-theme.json"
+      }
     ]
-  },
-  "iconThemes": [
-    {
-      "label": "Monokai Pro Icons",
-      "id": "Monokai Pro Icons",
-      "path": "./icon-themes/Monokai Pro icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro Monochrome Icons",
-      "id": "Monokai Pro Monochrome Icons",
-      "path": "./icon-themes/Monokai Pro monochrome icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Octagon) Icons",
-      "id": "Monokai Pro (Filter Octagon) Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Octagon) icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Octagon) Monochrome Icons",
-      "id": "Monokai Pro (Filter Octagon) Monochrome Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Octagon) monochrome icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Ristretto) Icons",
-      "id": "Monokai Pro (Filter Ristretto) Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Ristretto) icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Ristretto) Monochrome Icons",
-      "id": "Monokai Pro (Filter Ristretto) Monochrome Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Ristretto) monochrome icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Spectrum) Icons",
-      "id": "Monokai Pro (Filter Spectrum) Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Spectrum) icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Spectrum) Monochrome Icons",
-      "id": "Monokai Pro (Filter Spectrum) Monochrome Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Spectrum) monochrome icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Machine) Icons",
-      "id": "Monokai Pro (Filter Machine) Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Machine) icon-theme.json"
-    },
-    {
-      "label": "Monokai Pro (Filter Machine) Monochrome Icons",
-      "id": "Monokai Pro (Filter Machine) Monochrome Icons",
-      "path": "./icon-themes/Monokai Pro (Filter Machine) monochrome icon-theme.json"
-    },
-    {
-      "label": "Monokai Classic Icons",
-      "id": "Monokai Classic Icons",
-      "path": "./icon-themes/Monokai Classic icon-theme.json"
-    },
-    {
-      "label": "Monokai Classic Monochrome Icons",
-      "id": "Monokai Classic Monochrome Icons",
-      "path": "./icon-themes/Monokai Classic monochrome icon-theme.json"
-    }
-  ]
+  }
 }
