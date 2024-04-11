@@ -3,9 +3,9 @@
   "displayName": "One Monokai darker theme",
   "description": "A Darker One-Monokai crossover scheme, highlighting variables and functions and packages, etc.",
   "publisher": "zhuhr213",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.19.0"
   },
   "categories": [
     "Themes"
@@ -14,12 +14,18 @@
     "type": "git",
     "url": "https://github.com/zhuhr213/one-monokai-darker"
   },
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
         "label": "One Monokai darker theme",
         "uiTheme": "vs-dark",
         "path": "./themes/One Monokai darker theme-color-theme.json"
+      },
+      {
+        "label": "One Monokai not that darker theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Monokai not that darker theme-color-theme.json"
       }
     ],
     "iconThemes": [
