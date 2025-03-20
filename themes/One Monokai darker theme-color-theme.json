@@ -44,6 +44,7 @@
 	  "scrollbarSlider.activeBackground": "#747D9180",
 	  "scrollbarSlider.hoverBackground": "#5A637580",
 	  "sideBar.background": "#131618",
+      "sideBar.border": "#5A637580",
 	  "sideBarSectionHeader.background": "#12181f",
 	  "statusBar.background": "#131618",
 	  "statusBar.foreground": "#9da5b4",

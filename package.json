@@ -3,7 +3,7 @@
   "displayName": "One Monokai darker theme",
   "description": "A Darker One-Monokai crossover scheme, highlighting variables and functions and packages, etc.",
   "publisher": "zhuhr213",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.19.0"
   },
